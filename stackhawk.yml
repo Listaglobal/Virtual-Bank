@@ -1,7 +1,7 @@
 # -- stackhawk configuration for Virtual-Bank --
 app:
   # -- An applicationId obtained from the StackHawk platform. --
-  applicationId: a9887779-a6c9-4bbd-a1b8-ae9d7bd83741 # (required)
+  applicationId: 5c2178e0-2713-4cbd-a401-5a1ccfab6e11 # (required)
   # -- The environment for the applicationId defined in the StackHawk platform. --
   env: Development # (required)
   # -- The url of your application to scan --
