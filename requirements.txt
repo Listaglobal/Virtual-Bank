@@ -16,7 +16,7 @@ python-dotenv==1.0.0
 python-keyczar==0.716
 pytz==2023.3.post1
 PyYAML==6.0.1
-requests==2.31.0
+requests==2.32.0
 sqlparse==0.4.4
 typing_extensions==4.8.0
 urllib3==2.1.0
